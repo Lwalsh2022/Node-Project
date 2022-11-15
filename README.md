@@ -1,33 +1,44 @@
-# README Generator
+# Professional README Generator Starter Code
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+<img src = "Images\LisaWalshPhotographyHeaderImage2.png" alt = "logo">
 
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Licenses](#licenses)
-  * [Questions](#questions)
-  * [Credits](#credits)
 
-  ## Description
-  This application runs in the command line and uses node .js to create a professional README file from data entered by the user.
+# About
+A simple application that allows the user to dynamically generate a professional README file. This app uses node.js in the command line.
 
-  ## Installation
-  To use, clone the repo on your machine. Then run the npm i in the root folder of your project in the command line. To use the app, run node index.js from your command line and anser the questions.
+# User Story
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
 
-  ## Licenses
-    This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
+# Build
+Node.js is used in the command line
 
-  ## Contributing
-  undefined
+# Screenshot
 
-  ## Tests
-  undefined
+<img src = "Images\README Screenshot.jpg" alt = "screenshot">
 
-  ## Questions
-  Have questions about this project?  
-  GitHub: https://github.com/Lwalsh2022  
-  Email: lwalshphotography@yahoo.com
 
-  ## Credits
-  Lisa Walsh
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+---
+
+🏆
+## Badges
+
+https://github.com/Lwalsh2022?tab=achievements
